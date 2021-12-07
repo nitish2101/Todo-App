@@ -1,2 +1,2 @@
 # Todo List App
-Deployed Site - todo-list-nitish.netlify.app
+Deployed Site - https://todo-list-nitish.netlify.app/
